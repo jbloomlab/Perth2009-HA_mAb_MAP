@@ -1,2 +1,5 @@
 # Perth2009-HA_mAb_MAP
+
 Mutational antigenic profiling of Perth/2009 H3 HA with monoclonal antibodies
+
+This work was performed and analyzed by Juhye Lee. This project is in collaboration with Seth Zost and Scott Hensley.
