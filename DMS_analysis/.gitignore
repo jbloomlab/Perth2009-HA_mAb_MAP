@@ -1,5 +1,9 @@
-results
-FASTQ_files
+results/codoncounts
+results/FASTQ_files
+results/HVphydms_analysis
+results/logoplots/*.log
+results/phydms_analysis
+results/preferences/*.log
 run.sbatch
 slurm*
 *.pyc

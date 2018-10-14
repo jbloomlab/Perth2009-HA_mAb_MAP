@@ -1,0 +1,29 @@
+group,name,sel,mock,err,libfracsurvive,grouplabel,antibody
+5A01,replicate-2a,L2-5A01-200ng-ml,L2mock-A,WTplasmid-A,0.02285,anti-site B antibody: 5A01,5A01
+5A01,replicate-2b,L2-5A01-1ug-ml,L2mock-A,WTplasmid-A,3.97e-05,anti-site B antibody: 5A01,5A01
+5A01,replicate-4a,L4-5A01-100ng-ml,L4mock,WT-pHH-plasmid,0.0013599999999999999,anti-site B antibody: 5A01,5A01
+5A01,replicate-4b,L4-5A01-200ng-ml,L4mock,WT-pHH-plasmid,0.000162,anti-site B antibody: 5A01,5A01
+3C06,replicate-2a,L2-3C06-200ng-ml,L2mock-B,WTplasmid-B,0.1168,anti-site B antibody: 3C06,3C06
+3C06,replicate-2b,L2-3C06-550ng-ml,L2mock-A,WTplasmid-A,0.0001,anti-site B antibody: 3C06,3C06
+3C06,replicate-2c,L2-3C06-700ng-ml,L2mock-A,WTplasmid-A,8.8e-05,anti-site B antibody: 3C06,3C06
+3C06,replicate-2d,L2-3C06-1ug-ml,L2mock-A,WTplasmid-A,6.659999999999999e-05,anti-site B antibody: 3C06,3C06
+3C06,replicate-4a,L4-3C06-100ng-ml,L4mock,WT-pHH-plasmid,0.000688,anti-site B antibody: 3C06,3C06
+3C06,replicate-4b,L4-3C06-250ng-ml,L4mock,WT-pHH-plasmid,0.00010700000000000001,anti-site B antibody: 3C06,3C06
+3C04,replicate-2a,L2-3C04-200ng-ml,L2mock-B,WTplasmid-B,0.1101,anti-site B antibody: 3C04,3C04
+3C04,replicate-2b,L2-3C04-650ng-ml,L2mock-A,WTplasmid-A,0.000331,anti-site B antibody: 3C04,3C04
+3C04,replicate-2c,L2-3C04-1ug-ml,L2mock-A,WTplasmid-A,0.000262,anti-site B antibody: 3C04,3C04
+3C04,replicate-4a,L4-3C04-100ng-ml,L4mock,WT-pHH-plasmid,0.0007769999999999999,anti-site B antibody: 3C04,3C04
+3C04,replicate-4b,L4-3C04-250ng-ml,L4mock,WT-pHH-plasmid,0.000421,anti-site B antibody: 3C04,3C04
+4C01,replicate-2a,L2-4C01-600ng-ml,L2mock-A,WTplasmid-A,0.000185,anti-site B antibody: 4C01,4C01
+4C01,replicate-2b,L2-4C01-1ug-ml,L2mock-A,WTplasmid-A,7.340000000000001e-05,anti-site B antibody: 4C01,4C01
+4C01,replicate-4a,L4-4C01-200ng-ml,L4mock,WT-pHH-plasmid,0.00119,anti-site B antibody: 4C01,4C01
+4C01,replicate-4b,L4-4C01-400ng-ml,L4mock,WT-pHH-plasmid,0.000532,anti-site B antibody: 4C01,4C01
+4F03,replicate-2,L2-4F03-2ug-ml,L2mock-A,WTplasmid-A,0.00997,4F03,4F03
+4F03,replicate-3,L3-4F03-2ug-ml,L3mock,WTplasmid-B,0.03775,4F03,4F03
+1C04,replicate-2a,L2-1C04-10ug-ml,L2mock-A,WTplasmid-A,0.111,1C04,1C04
+1C04,replicate-2b,L2-1C04-16ug-ml,L2mock-A,WTplasmid-A,0.10319,1C04,1C04
+1C04,replicate-3,L3-1C04-18ug-ml,L3mock,WTplasmid-B,0.07904,1C04,1C04
+6C05,replicate-2a,L2-6C05-2ug-ml,L2mock-A,WTplasmid-A,0.0844,6C05,6C05
+6C05,replicate-2b,L2-6C05-5ug-ml,L2mock-A,WTplasmid-A,0.014740000000000001,6C05,6C05
+6C05,replicate-2c,L2-6C05-7ug-ml,L2mock-A,WTplasmid-A,0.0072,6C05,6C05
+6C05,replicate-3,L3-6C05-3ug-ml,L3mock,WTplasmid-B,0.04239,6C05,6C05

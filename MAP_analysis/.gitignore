@@ -1,5 +1,10 @@
-results
-FASTQ_files
+results/codoncounts
+results/differential_selections/*.log
+results/plots
+results/renumberedcounts/*.log
+results/FASTQ_files
+results/fracsurvive
+results/fracsurviveaboveavg
 run.sbatch
 slurm*
 *.pyc
