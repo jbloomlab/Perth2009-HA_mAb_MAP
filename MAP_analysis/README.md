@@ -20,6 +20,8 @@ The [./data/](./data/) contains the following input items:
   * [./data/H3renumbering_scheme.csv](./data/H3renumbering_scheme.csv): `CSV` file that allows conversion from sequential numbering (1, 2, 3,... etc.) to H3 numbering.
   * [./data/Perth09_HA_reference.fa](./data/Perth09_HA_reference.fa): contains the wildtype sequence of the A/Perth/16/2009 (H3N2) HA used for these experiments.
   * [./data/samples.csv](./data/samples.csv): `CSV` file that lists the samples, the SRA run the contains the deep sequencing data for each sample, and other sample metadata.
+  * [./data/summary_avgprefs_rescaled_H3num.csv](./data/summary_avgprefs_rescaled_H3num.csv): the across-replicate averaged and rescaled amino-acid preferences for the Perth/2009 HA mutant libraries generated with a helper virus, in H3 numbering. Taken from [Lee, et al.](http://www.pnas.org/content/early/2018/08/10/1806133115)
+  * [./data/wildtypeoverlayfile.csv](./data/wildtypeoverlayfile.csv): `CSV` file listing the wildtype am.ino acids for every site of the Perth/2009 H3.
   
 
 The [./results/](./results/) directory contains the following subdirectories (all other subdirectories are included in the `.gitignore`):
