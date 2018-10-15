@@ -7,4 +7,5 @@ results/preferences/*.log
 run.sbatch
 slurm*
 *.pyc
-.ipynb_checkpoints
+.*
+!.gitignore

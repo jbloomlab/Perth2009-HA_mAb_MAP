@@ -8,4 +8,5 @@ results/fracsurviveaboveavg
 run.sbatch
 slurm*
 *.pyc
-.ipynb_checkpoints
+.*
+!.gitignore
